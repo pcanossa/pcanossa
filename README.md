@@ -24,7 +24,7 @@ Atualmente sou **graduanda em Análise e Desenvolvimento de Sistemas** e tenho m
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-🧠 Inteligência Artificial / LLMs
+### 🧠 Inteligência Artificial / LLMs
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-4051B5?style=for-the-badge&logo=huggingface&logoColor=white)
