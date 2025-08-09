@@ -11,17 +11,6 @@ Atualmente sou **graduanda em Análise e Desenvolvimento de Sistemas** e tenho m
 
 ## 💻 Principais Tecnologias
 
-```typescript
-const techStack = {
-  frontend: ['Angular 19+'],
-  backend: ['Python'],
-  systems: ['Linux'],
-  scripting: ['Shell/Bash'],
-  ai_ml: ['Machine Learning'],
-  focus: ['Cybersecurity', 'SaaS Development']
-}
-```
-
 ### 🚀 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
