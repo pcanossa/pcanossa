@@ -53,6 +53,11 @@ Atualmente sou **graduanda em Análise e Desenvolvimento de Sistemas** e tenho m
 
 ## 🚀 Projetos em Destaque
 
+### 🔍 [Web Scan Light - Analisador de Segurança Web com IA](https://github.com/pcanossa/web-scan-light)
+**Scan de Vulnerabilidades Web com IA**
+
+Uma ferramenta de linha de comando simples, projetada para realizar uma análise de segurança preliminar em websites. A ferramenta utiliza um modelo de linguagem grande (LLM) através do Ollama para analisar os cabeçalhos HTTP e o conteúdo inicial de uma página, identificando potenciais vulnerabilidades e más configurações de segurança.
+
 ### 🩺 [DIAgvetLab](https://diagvet-lab.onrender.com/) | [Repositório](https://github.com/pcanossa/Diagvet_Lab)
 **Aplicação SaaS com IA para Medicina Veterinária**
 
@@ -77,11 +82,12 @@ Base de conhecimento abrangente sobre conceitos, práticas e ferramentas de cybe
 
 ## 🌟 Curiosidade
 
-Uma das minhas maiores paixões é **integrar Medicina Veterinária com Tecnologia**! Estou sempre buscando formas inovadoras de aplicar soluções tecnológicas para:
+Uma das minhas maiores paixões é **integrar Medicina Veterinária com Tecnologia** e **Utilizar a habilidade analítica em Cybersegurança**! Estou sempre buscando formas inovadoras de aplicar soluções tecnológicas para:
 
-- 📈 Aumentar a eficiência na prática clínica veterinária
+- 📈 Aumentar a eficiência na prática clínica veterinária e Cybersegurança
 - 🎯 Melhorar a assertividade no diagnóstico e tratamento
-- 🔬 Desenvolver ferramentas que auxiliem profissionais da área
+- 🔬 Desenvolver ferramentas que auxiliem profissionais da área (Veterinária e Cybersegurança)
+- 🔍 Aumentar a eficiência na detecçao de vulnerabilidades
 
 ## 📊 GitHub Stats
 
