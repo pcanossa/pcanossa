@@ -2,12 +2,11 @@
 
 ## 🚀 Sobre Mim
 
-Estou em uma empolgante **transição de carreira** da Medicina Veterinária para a Tecnologia da Informação! Com **13 anos de experiência** na área veterinária, trago uma perspectiva única e multidisciplinar para o mundo tech.
+Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em Cibersegurança, Threat Intelligence, OSINT e Segurança de Redes (formação Cisco e Google). Possui conhecimentos práticos em Threat Intelligence, com contribuição Publicação técnica verificada - AlienVault OTX Pulse, automação de segurança (Python, IA), análise de vulnerabilidades (OWASP, Nmap) e metodologias de Pentest, além de experiência em desenvolvimento de aplicações web com Angular, Node.js, TypeScript e MySQL. Busca uma oportunidade de estágio em Cibersegurança ouBusca uma posição de nível júnior em Cibersegurança (SOC N1 ou Threat Intelligence) para aplicar minha sólida experiência analítica e minhas novas habilidades técnicas para proteger os ativos da organização.
 
 Atualmente sou **graduanda em Análise e Desenvolvimento de Sistemas** e tenho me dedicado intensivamente a projetos nas áreas de:
-- 🤖 **Machine Learning**
-- ☁️ **SaaS (Software as a Service)**
 - 🔐 **SecOps (Security Operations)**
+- 🤖 **Machine Learning**
 
 ## 💻 Principais Tecnologias
 
