@@ -6,7 +6,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em Ciberseg
 
 Atualmente sou **graduanda em Análise e Desenvolvimento de Sistemas** e tenho me dedicado intensivamente a projetos nas áreas de:
 - 🔐 **SecOps (Security Operations)**
-- 🤖 **Machine Learning**
+- 🤖 **Automação IA para Cibersegurança**
 
 ## 💻 Principais Tecnologias
 
