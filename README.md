@@ -24,7 +24,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| **[Auto_Reputation]** | **Uma suíte de ferramentas de análises de reputação e threat intelligence com IA.** Analisa IPs, Domínios e Scripts de forma automatizada em motores de análise oficiais e IA |`Ollama` `Python` `LLM`| 
+| **[Auto_Reputation](https://github.com/pcanossa/Auto_Reputation)** | **Uma suíte de ferramentas de análises de reputação e threat intelligence com IA.** Analisa IPs, Domínios e Scripts de forma automatizada em motores de análise oficiais e IA |`Ollama` `Python` `LLM`| 
 | **[Web Scan Light](https://github.com/pcanossa/web-scan-light)** | **Ferramenta de Scan de Vulnerabilidades Web com IA.** Analisa headers HTTP e conteúdo para identificar falhas de segurança e más configurações. | `Python` `Ollama` `LLM` |
 | **[Cybersecurity Knowledge Base](https://pcanossa.github.io/Cybersecurity-Docs/)** | **Blue Team Field Manual.** Documentação centralizada sobre conteúdos, frameworks de segurança e documentos paea estudos e consultas. | `Docs` `Methodology` |
 | **[VetLLM - RAG Security](https://github.com/pcanossa/VetLLM-RAG)** | Embora focado em Vet, este projeto demonstra implementação complexa de **RAG (Retrieval-Augmented Generation)**, essencial para análise moderna de grandes volumes de dados em CTI. | `LangChain` `ChromaDB` `Python` |
