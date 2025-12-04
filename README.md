@@ -41,32 +41,35 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ![cURL](https://img.shields.io/badge/curl-black?style=for-the-badge&logo=curl&logoColor=32CD32)
 ![wget](https://img.shields.io/badge/wget-black?style=for-the-badge&logoColor=32CD32)
 ![WHOIS](https://img.shields.io/badge/WHOIS-black?style=for-the-badge&logo=whois&logoColor=32CD32)
-![Esteganografia](https://img.shields.io/badge/Esteganografia-C3CBD9?style=for-the-badge&logo=esteganography&logoColor=white)
+![Esteganografia](https://img.shields.io/badge/Esteganografia-C3CBD9?style=for-the-badge&logo=typeorm&logoColor=black)
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white&style=for-the-badge)
 ![Edge](https://img.shields.io/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white&style=for-the-badge)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white&style=for-the-badge)
 ![TAILSOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white&style=for-the-badge)
-
+![Flowsint](https://img.shields.io/badge/Flowsint-E07112?logo=commonworkflowlanguage&logoColor=white&style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
+![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### 🤖 Automação & IA (SecDev)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-019934?style=for-the-badge&logoColor=white)
 ![Ollama Cloud](https://img.shields.io/badge/Ollama%20Cloud-AFEEEE?style=for-the-badge&logo=ollama&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 
 ### 🌐 Infraestrutura & Web
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcanossa&show_icons=true&theme=radical)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML4](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
