@@ -44,7 +44,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ![WHOIS](https://img.shields.io/badge/WHOIS-black?style=for-the-badge&logo=whois&logoColor=32CD32)
 ![Esteganografia](https://img.shields.io/badge/Esteganografia-C3CBD9?style=for-the-badge&logo=esteganography&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white&style=for-the-badge)
-|[Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white&style=for-the-badge)
+|[Edge](https://img.shields.io/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white&style=for-the-badge)
 |[Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white&style=for-the-badge)
 |[TAILSOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white&style=for-the-badge)
 
