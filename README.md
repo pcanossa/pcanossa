@@ -6,7 +6,7 @@
 
 Com 13 anos de experiência em Análises e Investigação, trago para a Cibersegurança um **mindset analítico aguçado**, resiliência investigativa e capacidade de identificar padrões em cenários complexos (troubleshooting).
 
-Atualmente, minha atuação foca em **Threat Intelligence (CTI)**, **OSINT** e **Automação de Segurança**, utilizando Python e IA para criar ferramentas de defesa e análise.
+Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** e **Automação de Segurança**, dando suporte à análise de incidentes à pessoas físicas, achados de laboratório e utilizando Python / IA para criar ferramentas de defesa e análise.
 
 ### 🎯 Foco Profissional
 * **CTI & Análise de Ameaças:** Monitoramento de TTPs e IOCs.
