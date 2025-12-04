@@ -4,7 +4,7 @@
 
 > *"Do diagnóstico clínico à investigação digital: aplicando metodologia científica e análise crítica para proteger ativos e pessoas."*
 
-Com 13 anos de experiência em Análises e Investigação, trago para a Cibersegurança um **mindset analítico aguçado**, resiliência investigativa e capacidade de identificar padrões em cenários complexos (troubleshooting).
+Com 13 anos de experiência na área da saúde, em Análises, Investigação, Documentação Técnica e Raciocínio Crítico, trago para a Cibersegurança um **mindset analítico aguçado**, resiliência investigativa e capacidade de identificar padrões em cenários complexos (troubleshooting).
 
 Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** e **Automação de Segurança**, dando suporte à análise de incidentes à pessoas físicas, achados de laboratório e utilizando Python / IA para criar ferramentas de defesa e análise.
 
