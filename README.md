@@ -40,7 +40,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ![AlienVault](https://img.shields.io/badge/AlienVault_OTX-000000?style=for-the-badge&logo=alienvault&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-Methodology-blueviolet?style=for-the-badge)
 ![cURL](https://img.shields.io/badge/curl-black?style=for-the-badge&logo=curl&logoColor=32CD32)
-|[wget](https://img.shields.io/badge/wget-black?style=for-the-badge&logo=wget&logoColor=32CD32)
+|[wget](https://img.shields.io/badge/wget-black?style=for-the-badge&logoColor=32CD32)
 ![WHOIS](https://img.shields.io/badge/WHOIS-black?style=for-the-badge&logo=whois&logoColor=32CD32)
 ![Esteganografia](https://img.shields.io/badge/Esteganografia-C3CBD9?style=for-the-badge&logo=esteganography&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white&style=for-the-badge)
