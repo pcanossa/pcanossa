@@ -33,7 +33,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ## 💻 Arsenal Técnico
 
 ### 🕵️‍♀️ CTI, OSINT & Segurança
-![Kali Linux](https://img.shields.io/badge/Kali-69CED6?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4f4f4f?style=for-the-badge&logoColor=white)
 ![AlienVault](https://img.shields.io/badge/AlienVault_OTX-000000?style=for-the-badge&logo=alienvault&logoColor=white)
