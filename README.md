@@ -1,101 +1,76 @@
-# Olá! 👋 Eu sou a Patrícia Canossa Gagliardi
+# Olá! 👋 Eu sou a Patrícia Canossa
 
-## 🚀 Sobre Mim
+## 🛡️ Cyber Threat Intelligence Analyst | Digital Investigator
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em Cibersegurança, Threat Intelligence, OSINT e Segurança de Redes (formação Cisco e Google). Possui conhecimentos práticos em Threat Intelligence, com contribuição Publicação técnica verificada - AlienVault OTX Pulse, automação de segurança (Python, IA), análise de vulnerabilidades (OWASP, Nmap) e metodologias de Pentest, além de experiência em desenvolvimento de aplicações web com Angular, Node.js, TypeScript e MySQL. Busca uma oportunidade de estágio em Cibersegurança ouBusca uma posição de nível júnior em Cibersegurança (SOC N1 ou Threat Intelligence) para aplicar minha sólida experiência analítica e minhas novas habilidades técnicas para proteger os ativos da organização.
+> *"Do diagnóstico clínico à investigação digital: aplicando metodologia científica e análise crítica para proteger ativos e pessoas."*
 
-Atualmente sou **graduanda em Análise e Desenvolvimento de Sistemas** e tenho me dedicado intensivamente a projetos nas áreas de:
-- 🔐 **SecOps (Security Operations)**
-- 🤖 **Automação IA para Cibersegurança**
+Com 13 anos de experiência em Análises e Investigação, trago para a Cibersegurança um **mindset analítico aguçado**, resiliência investigativa e capacidade de identificar padrões em cenários complexos (troubleshooting).
 
-## 💻 Principais Tecnologias
+Atualmente, minha atuação foca em **Threat Intelligence (CTI)**, **OSINT** e **Automação de Segurança**, utilizando Python e IA para criar ferramentas de defesa e análise.
 
-### 🚀 Frontend Development
+### 🎯 Foco Profissional
+* **CTI & Análise de Ameaças:** Monitoramento de TTPs e IOCs.
+* **OSINT (Open Source Intelligence):** Investigação digital para fins de segurança e auxílio social.
+* **Automação (SecDevOps):** Criação de scripts para coleta e análise de dados.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+---
 
-### ⚙️ Backend Development
+## 🚀 Destaques de Segurança & CTI
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🏆 Contribuição Verificada
+* **AlienVault OTX:** https://otx.alienvault.com/pulse/69027eb687b62180dad94de - *Publicação técnica e análise de indicadores de compromisso.*
 
-### 🧠 Inteligência Artificial / LLMs
+### 🛠️ Projetos de Segurança
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-4051B5?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-019934?style=for-the-badge&logoColor=white)
-![Gemma2](https://img.shields.io/badge/Gemma2-4285F4?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5f43e8?style=for-the-badge&logoColor=white)
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **[Auto_Reputation]** | **Uma suíte de ferramentas de análises de reputação e threat intelligence com IA.** Analisa IPs, Domínios e Scripts de forma automatizada em motores de análise oficiais e IA |`Ollama` `Python` `LLM`| 
+| **[Web Scan Light](https://github.com/pcanossa/web-scan-light)** | **Ferramenta de Scan de Vulnerabilidades Web com IA.** Analisa headers HTTP e conteúdo para identificar falhas de segurança e más configurações. | `Python` `Ollama` `LLM` |
+| **[Cybersecurity Knowledge Base](https://pcanossa.github.io/Cybersecurity-Docs/)** | **Blue Team Field Manual.** Documentação centralizada sobre conteúdos, frameworks de segurança e documentos paea estudos e consultas. | `Docs` `Methodology` |
+| **[VetLLM - RAG Security](https://github.com/pcanossa/VetLLM-RAG)** | Embora focado em Vet, este projeto demonstra implementação complexa de **RAG (Retrieval-Augmented Generation)**, essencial para análise moderna de grandes volumes de dados em CTI. | `LangChain` `ChromaDB` `Python` |
 
-### 🐧 Sistemas Operacionais & Shell
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-212259?style=for-the-badge&logo=centos&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=powershell&logoColor=white)
+## 💻 Arsenal Técnico
 
-### 🛡️ Ferramentas de Cibersegurança
-
+### 🕵️‍♀️ CTI, OSINT & Segurança
+![Kali Linux](https://img.shields.io/badge/Kali-69CED6?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4f4f4f?style=for-the-badge&logoColor=white)
+![AlienVault](https://img.shields.io/badge/AlienVault_OTX-000000?style=for-the-badge&logo=alienvault&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-Methodology-blueviolet?style=for-the-badge)
+![cURL](https://img.shields.io/badge/curl-black?style=for-the-badge&logo=curl&logoColor=32CD32)
+|[wget](https://img.shields.io/badge/wget-black?style=for-the-badge&logo=wget&logoColor=32CD32)
+![WHOIS](https://img.shields.io/badge/WHOIS-black?style=for-the-badge&logo=whois&logoColor=32CD32)
+![Esteganografia](https://img.shields.io/badge/Esteganografia-C3CBD9?style=for-the-badge&logo=esteganography&logoColor=white)
+![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white&style=for-the-badge)
+|[Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white&style=for-the-badge)
+|[Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white&style=for-the-badge)
+|[TAILSOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white&style=for-the-badge)
+
+
+### 🤖 Automação & IA (SecDev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-019934?style=for-the-badge&logoColor=white)
+![Ollama Cloud](https://img.shields.io/badge/Ollama%20Cloud-AFEEEE?style=for-the-badge&logo=ollama&logoColor=black)
+
+### 🌐 Infraestrutura & Web
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+|[Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcanossa&show_icons=true&theme=radical&hide=stars)
+
+---
 
 ## 🔗 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-canossa-gagliardi/)
-
-## 🚀 Projetos em Destaque
-
-### 🔍 [Web Scan Light - Analisador de Segurança Web com IA](https://github.com/pcanossa/web-scan-light)
-**Scan de Vulnerabilidades Web com IA**
-
-Uma ferramenta de linha de comando simples, projetada para realizar uma análise de segurança preliminar em websites. A ferramenta utiliza um modelo de linguagem grande (LLM) através do Ollama para analisar os cabeçalhos HTTP e o conteúdo inicial de uma página, identificando potenciais vulnerabilidades e más configurações de segurança.
-
-### 🩺 [DIAgvetLab](https://diagvet-lab.onrender.com/) | [Repositório](https://github.com/pcanossa/Diagvet_Lab)
-**Aplicação SaaS com IA para Medicina Veterinária**
-
-Uma ferramenta revolucionária que utiliza **Machine Learning** para auxiliar médicos veterinários na interpretação de hemogramas. O sistema analisa parâmetros laboratoriais e fornece sugestões de diagnóstico baseadas em padrões clínicos, otimizando o tempo e apoiando decisões clínicas mais assertivas.
-
-*💡 Transformando dados laboratoriais em insights acionáveis para a medicina veterinária moderna.*
-
-### 🤖 [VetLLM](https://github.com/pcanossa/VetLLM-RAG)
-**Assistente de IA Especializado em Medicina Veterinária**
-
-Um sistema inteligente que combina **tecnologias RAG (Retrieval-Augmented Generation)** com modelos de linguagem especializados para fornecer informações técnicas precisas e baseadas em evidências científicas para profissionais veterinários.
-
-### 📱 [VetCalc](https://github.com/pcanossa/mobile-vetcalc)
-**Aplicativo Mobile para Cálculos Veterinários**
-
-Aplicativo desenvolvido para auxiliar veterinários no cálculo rápido e preciso de doses medicamentosas, otimizando a prática clínica diária com uma ferramenta ágil e confiável.
-
-### 📚 [Cybersecurity Knowledge Base](https://pcanossa.github.io/Cybersecurity-Docs/)
-**Projeto Open Source de Documentação em Segurança**
-
-Base de conhecimento abrangente sobre conceitos, práticas e ferramentas de cybersecurity, demonstrando meu comprometimento com o compartilhamento de conhecimento e construção de uma comunidade tech mais segura.
-
-## 🌟 Curiosidade
-
-Uma das minhas maiores paixões é **integrar Medicina Veterinária com Tecnologia** e **Utilizar a habilidade analítica em Cybersegurança**! Estou sempre buscando formas inovadoras de aplicar soluções tecnológicas para:
-
-- 📈 Aumentar a eficiência na prática clínica veterinária e Cybersegurança
-- 🎯 Melhorar a assertividade no diagnóstico e tratamento
-- 🔬 Desenvolver ferramentas que auxiliem profissionais da área (Veterinária e Cybersegurança)
-- 🔍 Aumentar a eficiência na detecçao de vulnerabilidades
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcanossa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanossa&layout=compact&theme=radical)
-
----
-
-💡 *"A tecnologia é mais poderosa quando conecta diferentes áreas do conhecimento"*
-
-⭐ **Sinta-se à vontade para explorar meus repositórios e entrar em contato!**
