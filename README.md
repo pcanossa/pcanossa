@@ -26,7 +26,8 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 | :--- | :--- | :--- |
 | **[Auto_Reputation](https://github.com/pcanossa/Auto_Reputation)** | **Uma suíte de ferramentas de análises de reputação e threat intelligence com IA.** Analisa IPs, Domínios e Scripts de forma automatizada em motores de análise oficiais e IA |`Ollama` `Python` `LLM`| 
 | **[Web Scan Light](https://github.com/pcanossa/web-scan-light)** | **Ferramenta de Scan de Vulnerabilidades Web com IA.** Analisa headers HTTP e conteúdo para identificar falhas de segurança e más configurações. | `Python` `Ollama` `LLM` |
-| **[Cybersecurity Knowledge Base](https://pcanossa.github.io/Cybersecurity-Docs/)** | **Blue Team Field Manual.** Documentação centralizada sobre conteúdos, frameworks de segurança e documentos paea estudos e consultas. | `Docs` `Methodology` |
+| **[Cybersecurity Knowledge Base](https://pcanossa.github.io/Cybersecurity-Docs/)** | **Cybersecurity Utils.** Documentação centralizada sobre conteúdos, frameworks de segurança e documentos paea estudos e consultas. | `Docs` `Methodology` |
+| **[CustomBase64X_Toolkit](https://github.com/pcanossa/CustomBase64X_Toolkit)** | **Ferramenta de decodificação Bas64 + XOR**. Decodifica conteúdo codificado em Base64 + XOR, permitindo uso de alfabeto personalizado | `Python` `Esteganografia`|
 
 ---
 
