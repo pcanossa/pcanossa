@@ -18,7 +18,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ## 🚀 Destaques de Segurança & CTI
 
 ### 🏆 Contribuição Verificada
-* **AlienVault OTX:** https://otx.alienvault.com/pulse/69027eb687b62180dad94de - *Publicação técnica e análise de indicadores de compromisso.*
+* **AlienVault OTX:** [Pulses](https://otx.alienvault.com/user/patcanossa/pulses) - *Publicação técnica e análise de indicadores de compromisso.*
 
 ### 🛠️ Projetos de Segurança
 
