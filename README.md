@@ -25,6 +25,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
 | **[Auto_Reputation](https://github.com/pcanossa/Auto_Reputation)** | **Uma suíte de ferramentas de análises de reputação e threat intelligence com IA.** Analisa IPs, Domínios e Scripts de forma automatizada em motores de análise oficiais e IA |`Ollama` `Python` `LLM`| 
+| **[Pipeline de Defesa Anti-Phishing - AI Powered](https://github.com/pcanossa/AI-powered-anti-phishing)** | **Pipeline de integração com Wazuh automatizado de Detecção e Resposta a Ameaças (TDR) focado em Phishing e integração com IA Local** A solução integra automação de fluxo de trabalho (n8n), análise cognitiva via Inteligência Artificial Local (Ollama) e monitoramento de segurança (Wazuh SIEM), de e-mails e greaçao de escore Phishing. |`Ollama` `n8n` `Node.js` `LLM` `Syslog` `Wazuh`| 
 | **[Web Scan Light](https://github.com/pcanossa/web-scan-light)** | **Ferramenta de Scan de Vulnerabilidades Web com IA.** Analisa headers HTTP e conteúdo para identificar falhas de segurança e más configurações. | `Python` `Ollama` `LLM` |
 | **[Cybersecurity Knowledge Base](https://pcanossa.github.io/Cybersecurity-Docs/)** | **Cybersecurity Utils.** Documentação centralizada sobre conteúdos, frameworks de segurança e documentos paea estudos e consultas. | `Docs` `Methodology` |
 | **[Correlation Scraper: JSON & HTML String Matcher](https://github.com/pcanossa/Correlation_Scraper)** | **Ferramenta de correlação de elementos em JSON com elementos em documento HTML**. Realiza a extração de tokens de um arquivo JSON estruturado e os correlaciona com o conteúdo de um arquivo HTML, identificando padrões comuns e mapeando suas ocorrências exatas no código-fonte. | `Python` `JSON` `HTML`|
@@ -51,13 +52,16 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ![Flowsint](https://img.shields.io/badge/Flowsint-E07112?logo=commonworkflowlanguage&logoColor=white&style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
 ![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Elastic%20Suite-005571?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### 🤖 Automação & IA (SecDev)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-019934?style=for-the-badge&logoColor=white)
 ![Ollama Cloud](https://img.shields.io/badge/Ollama%20Cloud-AFEEEE?style=for-the-badge&logo=ollama&logoColor=black)
+![Ollama]![Ollama Cloud](https://img.shields.io/badge/Ollama%20Cloud-000000?style=for-the-badge&logo=ollama&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 
 ### 🌐 Infraestrutura & Web
@@ -71,7 +75,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML4](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML4](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
