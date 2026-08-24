@@ -64,7 +64,7 @@ Atualmente, possuo atuação focada em **Threat Intelligence (CTI)**, **OSINT** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![JSON](https://img.shields.io/badge/json-AFEEEE?style=for-the-badge&logo=json&logoColor=#000000)
+![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=#000000)
 
 ### 🌐 Infraestrutura & Web
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
