@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou a Patrícia Canossa
 
-## 🛡️ Cyber Threat Intelligence Analyst | Digital Investigator
+## 🛡️ Cyber Threat Intelligence Researcher | Digital Investigator
 
 > *"Do diagnóstico clínico à investigação digital: aplicando metodologia científica e análise crítica para proteger ativos e pessoas."*
 
